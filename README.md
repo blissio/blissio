@@ -15,7 +15,7 @@
  ~
  <a href="https://youtube.com/channel/UCOQHLm32PksPNSgt6te0SLQ"> ✨ youtube </a>
  ~
- <a href="https://github.com/shaolingit"> ☀️ github </a>
+ <a href="https://github.com/blissiorg"> ☀️ github </a>
  - </samp></b></p>
 
 <br>
