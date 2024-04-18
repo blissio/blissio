@@ -2,7 +2,7 @@
  <br>
 
  <p align="center">
-      Hello, I am shaolin<br>
+      Hello, I am Bliss<br>
       <br>
       <samp>I am a scripting fan, student and Linux enthusiast<br></samp>
   </p>
