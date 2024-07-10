@@ -5,6 +5,7 @@
       Hello, I am Bliss<br>
       <br>
       <samp>I am a scripting fan, student and Linux enthusiast<br></samp>
+      <samp>Currently in Uni for Cybersec and Data science<br></samp>
   </p>
 
 
