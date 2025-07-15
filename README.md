@@ -19,9 +19,6 @@
 - 📈 Threat detection & log analysis with R  
 - 🎮 Assembly mini games in MASM  
 
----
-
-### 📎 Links & Projects
 <p align="center"><b><samp> -
  <a href="https://www.linkedin.com/in/rayaneelyasti">🌙 LinkedIn</a>
  ~
